@@ -1,2 +1,2 @@
 source "${GITOUTERSPACE}/colors.sh"
-source "${GITOUTERSPACE}/gitaware.sh"
+source "${GITOUTERSPACE}/prompt.sh"
